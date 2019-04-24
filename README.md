@@ -1,2 +1,2 @@
 # colours
-A porject to log colour names
+A project to log colour names
