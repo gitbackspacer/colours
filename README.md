@@ -1,5 +1,7 @@
 # colours
 A project to log colour names
+- Transparent
+- Opaque
 
 - Red 
 - Green
