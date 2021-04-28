@@ -34,6 +34,8 @@ A project to log colour names
 - Light orange
 - purple black
 
+- white
+
 -  Purple 
 -  Gold
 -  sun_set_yellow
