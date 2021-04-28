@@ -21,6 +21,8 @@ A project to log colour names
 - dark_green
 - orange
 
+Tom was here and my colours are below :)
+
 - Teal 
 - indigo
 - Dandelion
