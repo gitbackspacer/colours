@@ -1,4 +1,5 @@
-# colours
+# Fancy colours
+
 A project to log colour names
 
 - Retina
