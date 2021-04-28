@@ -51,6 +51,7 @@ A project to log colour names
 - Toruquoise
 - Green
 
+- Teal 
 
 
 
